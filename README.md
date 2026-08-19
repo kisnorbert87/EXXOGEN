@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="EXXOGEN logo.jpg" width="300" title="EXXOGEN Logo">
+</p>
+
 # EXXOGEN
 EXXOGEN is an R&amp;D-based biotechnology startup working on redefining molecular recognition and interactions. Powered by a proprietary quantum physics equation.  
 
