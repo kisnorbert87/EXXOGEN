@@ -48,6 +48,11 @@ Run these 10 samples through your Graph Neural Networks (GNNs), AlphaFold fine-t
 ​Need the industrial 200,000 molecule dataset? Contact us for early access.
 
 
-Upload files coming soon...
+## License
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This dataset is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. 
+
+You are free to use, share, adapt, and train models on this dataset for both non-commercial and commercial purposes, provided appropriate attribution is given to **EXXOGEN**.
 
