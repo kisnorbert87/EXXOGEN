@@ -3,7 +3,7 @@
 </p>
 
 # EXXOGEN
-EXXOGEN is an R&amp;D-based biotechnology startup working on redefining molecular recognition and interactions. Powered by a proprietary quantum physics equation.  
+EXXOGEN is an R&amp;D-based biotechnology startup working on redefining molecular recognition and interactions. Powered by a proprietary quantum physics equation. (Ab Initio) 
 
 https://www.exxogen.hu/
 
