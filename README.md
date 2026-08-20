@@ -23,7 +23,7 @@ This is a clean, noise-filtered, pre-processed physical dataset. When loaded, th
 
 
 
-​8 Reference Molecules (PDB): Ground-truth validation set with experimental coordinates.
+​8 Reference Molecules: Ground-truth validation set with experimental coordinates.
 
 
 ​2 AlphaFold Predicted Structures: Demonstrating quantum energy annotation on unindexed structural models.
