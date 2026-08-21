@@ -31,13 +31,13 @@ This is a clean, noise-filtered, pre-processed physical dataset. When loaded, th
 
 
 
-​🧪 Benchmark Instructions:
+​Benchmark Instructions:
 
 
 Run these 10 samples through your Graph Neural Networks (GNNs), AlphaFold fine-tuning pipelines, or molecular dynamics models to evaluate physical consistency.
 
 
-​📬 Feedback & Full Dataset Requests:
+​ Feedback & Full Dataset Requests:
 
 
 
