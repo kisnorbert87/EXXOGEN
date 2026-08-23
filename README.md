@@ -7,6 +7,10 @@ EXXOGEN is an R&amp;D-based biotechnology startup working on redefining molecula
 
 https://www.exxogen.hu/
 
+The Titan has been mapped. (TITIN Q8WZ42)
+
+https://medium.com/@kisnorbert87/the-titan-has-been-mapped-q8wz42-b90096a655f2
+
 
 .........
 
