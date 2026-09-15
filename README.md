@@ -3,9 +3,12 @@
 </p>
 
 # EXXOGEN
-EXXOGEN is a DeepTech biotechnology startup redefining molecular recognition through a novel, first-principles (ab initio) analytical framework for quantum-level interactions. 
+EXXOGEN is a DeepTech biotechnology startup redefining molecular recognition with a proprietary, closed-form analytical operator to calculate quantum-level interactions directly from first-principles physics. 
 
-Core Breakthrough: Bypassing iterative Density Functional Theory (DFT) approximations and supercomputer overhead, EXXOGEN utilizes a novel, proprietary analytical operator derived from fundamental quantum principles. Rather than repackaging existing open-source engines, the proprietary operator computes the quantum-level dynamics in the background, outputting the structured and refined energy matrix as seen in the benchmark datasets, delivering near instantaneous computation and massive scalability.
+We don't search databases - we calculate reality
+
+
+Core Breakthrough: Bypassing iterative Density Functional Theory (DFT) approximations and supercomputer overhead, EXXOGEN utilizes a novel, proprietary analytical operator derived from fundamental quantum principles. Rather than repackaging existing engines, the proprietary operator computes the quantum-level dynamics in the background, outputting the structured and refined energy matrix as seen in the benchmark datasets, delivering near instantaneous computation and massive scalability.
 
 https://www.exxogen.hu/
 
@@ -16,16 +19,12 @@ https://www.exxogen.hu/
 EXXOGEN Quantum Benchmark Sample v1.0 (10 Molecules)
 
 
-​This benchmark dataset provides quantum-level transport boundaries, interaction classifications, and binding energy matrices computed via the EXXOGEN engine's proprietary first-principles framework.
 
-As a high-fidelity, noise-filtered physical dataset, it serves as a ground-truth foundation for computational chemistry and molecular machine learning. By training or conditioning AI architectures on physically consistent quantum state matrices, researchers can significantly eliminate structural hallucinations and accelerate the rational design of viable, physically accurate molecules.
-
+​This benchmark dataset provides quantum-level transport boundaries, interaction classifications, and binding energy matrices.
+(does not include the full vibration profile)
 
 
 ​Contents:
-
-
-
 
 ​8 Reference Molecules: Ground-truth validation set with experimental coordinates.
 
@@ -35,21 +34,9 @@ As a high-fidelity, noise-filtered physical dataset, it serves as a ground-truth
 
 
 
-​Benchmark Instructions:
-
-
-Run these 10 samples through your Graph Neural Networks (GNNs), AlphaFold fine-tuning pipelines, or molecular dynamics models to evaluate physical consistency.
-
-
-​ Feedback & Full Dataset Requests:
-
-
-
-
 ​Found a bug or have performance feedback? Let us know at kisnorbert87@gmail.com
 
 
-​Need the industrial 200,000 molecule dataset? Contact us for early access.
 
 
 ## License
