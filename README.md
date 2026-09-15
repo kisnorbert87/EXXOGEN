@@ -18,18 +18,17 @@ https://www.exxogen.hu/
 
 EXXOGEN Quantum Benchmark Sample v1.0 (10 Molecules)
 
+Outputs a Structured, Noise-Filtered Physical ENERGY MATRIX (kJ/mol).
 
-
-​This reference dataset contains quantum-level transport limits, interaction classifications, and binding energy matrices.
 (It does not include the full vibrational profile, please contact us for the complete dataset.)
 
 
 ​Contents:
 
-​8 Reference Molecules: Ground-truth validation set with experimental coordinates.
+​8 Reference Molecules
 
-
-​2 AlphaFold Predicted Structures: Demonstrating quantum energy annotation on unindexed structural models.
+​2 AlphaFold Predicted Structures
+(Demonstrating  unindexed structural models.)
 
 
 
