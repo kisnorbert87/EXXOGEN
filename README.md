@@ -20,8 +20,8 @@ EXXOGEN Quantum Benchmark Sample v1.0 (10 Molecules)
 
 
 
-​This benchmark dataset provides quantum-level transport boundaries, interaction classifications, and binding energy matrices.
-(does not include the full vibration profile)
+​This reference dataset contains quantum-level transport limits, interaction classifications, and binding energy matrices.
+(It does not include the full vibrational profile, please contact us for the complete dataset.)
 
 
 ​Contents:
