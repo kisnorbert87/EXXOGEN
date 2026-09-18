@@ -31,6 +31,12 @@ Outputs a Structured, Noise-Filtered Physical ENERGY MATRIX (kJ/mol).
 (Demonstrating  unindexed structural models.)
 
 
+EXXOGEN Output Validation Script v1.0 
+
+(default 1d66_exxogen_analysis_results.csv, Rewrite whatever you want.)
+    Verifies physical conservation laws, tensor consistency,
+    and mathematical integrity of EXXOGEN generated interaction matrices.
+    
 
 
 ​Found a bug or have performance feedback? Let us know at kisnorbert87@gmail.com
