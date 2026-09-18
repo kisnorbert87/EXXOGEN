@@ -13,17 +13,17 @@ def validate_exxogen_output(csv_file_path):
     print(f"EXXOGEN PHYSICAL INTEGRITY REPORT: {csv_file_path}")
     print("=" * 60)
     
-    # 1. Euklideszi Térbeli Konzisztencia (3D Koordináta Mérés)
+    # 1. Euclidean Spatial Consistency (3D Coordinate Measurement)
     p1 = df[['Atom1_X', 'Atom1_Y', 'Atom1_Z']].values
     p2 = df[['Atom2_X', 'Atom2_Y', 'Atom2_Z']].values
     calculated_distances = np.linalg.norm(p1 - p2, axis=1)
     max_dist_error = np.max(np.abs(calculated_distances - df['Distance_A'].values))
     
-    # 2. Fizikai Mátrix Konzisztencia
+    # 2. Physical Matrix Consistency
     is_finite = np.all(np.isfinite(df['Energy_kJ_mol'].values))
     total_vectors = len(df)
     
-    # 3. Kvantum-Energia Bimodális Szétválás (Kötési vs Termikus Állapot)
+    # 3. Quantum-Energy Bimodal Separation (Bound vs. Thermal State)
     bound_states = df[df['Category'] == 'Bound Backbone']['Energy_kJ_mol']
     thermal_states = df[df['Category'] == 'Thermal Noise']['Energy_kJ_mol']
     
@@ -48,5 +48,5 @@ def validate_exxogen_output(csv_file_path):
     else:
         print("RESULT: VALIDATION FAILED. Mathematical inconsistencies detected.")
 
-# Futtatás a 1D66 adatsoron
-validate_exxogen_output("1d66_exxogen_analysis_results (2).csv")
+# Run on the dataset; edit whatever you want here.
+validate_exxogen_output("1d66_exxogen_analysis_results.csv")
