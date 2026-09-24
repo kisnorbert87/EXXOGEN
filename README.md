@@ -4,15 +4,8 @@
 
 # EXXOGEN
 EXXOGEN is a DeepTech biotechnology startup redefining molecular recognition with a proprietary, closed-form analytical operator to calculate quantum-level interactions directly from first-principles physics. 
-
-We don't search databases - we calculate reality
-
-
-Core Breakthrough: Bypassing iterative Density Functional Theory (DFT) approximations and supercomputer overhead, EXXOGEN utilizes a novel, proprietary analytical operator derived from fundamental quantum principles. Rather than repackaging existing engines, the proprietary operator computes the quantum-level dynamics in the background, outputting the structured and refined energy matrix as seen in the benchmark datasets, delivering near instantaneous computation and massive scalability.
-
+ 
 https://www.exxogen.hu/
-
-
 
 .........
 
