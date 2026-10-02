@@ -9,7 +9,7 @@ https://www.exxogen.hu/
 
 .........
 
-EXXOGEN Quantum Benchmark Sample v1.0 (10 Molecules)
+EXXOGEN  Benchmark Sample v1.0 (10 Molecules)
 
 Outputs a Structured, Noise-Filtered Physical ENERGY MATRIX (kJ/mol).
 
