@@ -3,7 +3,7 @@
 </p>
 
 # EXXOGEN
-EXXOGEN is a DeepTech biotechnology startup with a proprietary, closed-form analytical operator for molecular recognition. We calculate how molecules connect and interact from first-principles physics. Rather than searching databases or relying on neural network approximations, we describe reality through mathematical modeling. 
+EXXOGEN is a DeepTech biotechnology startup with a proprietary, closed-form analytical operator that models molecular recognition, calculating quantum-level interactions directly from first-principles physics.
 
  
 https://www.exxogen.hu/
